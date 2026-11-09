@@ -1,0 +1,25 @@
+/* Cor do fundo da página */
+body{
+    background-color: #eaf2f8;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.conteudo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#canvas{
+    display: block;
+    margin: 0 auto;
+    border: 1px solid black;
+    background-color: white;
+}
