@@ -1,0 +1,22 @@
+/* Cor do fundo da página */
+body {
+    background-color: #eaf2f8;
+    margin: 0;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 260px;
+    margin-bottom: 20px;
+}
